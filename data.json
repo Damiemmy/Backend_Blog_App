@@ -1,704 +1,704 @@
-[
-{
-  "model": "admin.logentry",
-  "pk": 1,
-  "fields": {
-    "action_time": "2025-07-17T17:01:19.382Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "6bd11436-943d-48be-85d7-b8b888af5eb4",
-    "object_repr": "Blogs object (6bd11436-943d-48be-85d7-b8b888af5eb4)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 2,
-  "fields": {
-    "action_time": "2025-07-17T17:06:03.051Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "6bd11436-943d-48be-85d7-b8b888af5eb4",
-    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 3,
-  "fields": {
-    "action_time": "2025-07-17T17:07:31.144Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
-    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 4,
-  "fields": {
-    "action_time": "2025-07-17T17:10:11.874Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
-    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 5,
-  "fields": {
-    "action_time": "2025-07-17T17:15:32.100Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "66c75c5b-0879-4174-a931-b76056256150",
-    "object_repr": "Revolutionizing Farming Through Technology",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 6,
-  "fields": {
-    "action_time": "2025-07-17T17:18:19.620Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
-    "object_repr": "Why Education in Rural Areas Still Lags Behind",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 7,
-  "fields": {
-    "action_time": "2025-07-17T17:22:37.619Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3102755c-ca31-4b47-b24e-dcde4dce7633",
-    "object_repr": "The Rise of Renewable Energy Startups",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 8,
-  "fields": {
-    "action_time": "2025-07-17T17:23:14.276Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3102755c-ca31-4b47-b24e-dcde4dce7633",
-    "object_repr": "The Rise of Renewable Energy Startups",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 9,
-  "fields": {
-    "action_time": "2025-07-18T15:55:23.216Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
-    "object_repr": "he Life and Death of Muhammadu Buhari: Soldier, President, and Controversial Reformer\"",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 10,
-  "fields": {
-    "action_time": "2025-07-18T16:02:29.896Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
-    "object_repr": "Muhammadu Buhari: His Journey as Soldier, President, and Controversial Leader",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Subtitle\", \"Slug\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 11,
-  "fields": {
-    "action_time": "2025-07-18T16:07:57.053Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
-    "object_repr": "Muhammadu Buhari Death",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Subtitle\", \"Slug\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 12,
-  "fields": {
-    "action_time": "2025-07-18T16:08:07.689Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
-    "object_repr": "Why Education in Rural Areas Still Lags Behind",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 13,
-  "fields": {
-    "action_time": "2025-07-18T16:08:40.174Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
-    "object_repr": "Muhammadu Buhari Death",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Subtitle\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 14,
-  "fields": {
-    "action_time": "2025-09-11T07:42:03.876Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
-    "object_repr": "Why Education in Rural Areas Still Lags Behind",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Author\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 15,
-  "fields": {
-    "action_time": "2025-09-15T21:44:24.586Z",
-    "user": 1,
-    "content_type": 6,
-    "object_id": "1",
-    "object_repr": "damisa",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"State\", \"City\", \"Address\", \"Phone\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 16,
-  "fields": {
-    "action_time": "2025-09-15T22:09:43.797Z",
-    "user": 1,
-    "content_type": 6,
-    "object_id": "2",
-    "object_repr": "Clarita",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 17,
-  "fields": {
-    "action_time": "2025-09-16T10:15:16.363Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "Clarita's Profile",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Image\", \"Bio\", \"State\", \"Email\", \"Country\", \"Phone\", \"Verified\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 18,
-  "fields": {
-    "action_time": "2025-09-16T10:59:30.323Z",
-    "user": 1,
-    "content_type": 6,
-    "object_id": "3",
-    "object_repr": "Felix",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 19,
-  "fields": {
-    "action_time": "2025-09-16T16:55:04.034Z",
-    "user": 1,
-    "content_type": 6,
-    "object_id": "7",
-    "object_repr": "donjazzy",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\", \"Address\", \"Phone\"]}}]"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "gp5zxhwlobgyup7z5s5rf0tx7rl5jufs",
-  "fields": {
-    "session_data": ".eJxVjDkOwjAURO_iGlleY5uSnjNYfzE4gBwpTirE3UmkFFCNNO_NvEWGdal57WXOI4uz0OL02yHQs7Qd8APafZI0tWUeUe6KPGiX14nL63K4fwcVet3WwNGx81ZrnxADJ5XAKtLBUmRzi0xorCkDhRIH1k5HBQSK3RbMHsXnC-FtOEo:1ucRrf:dQuKNdG4RFUkNVhhJhaCBFmJ9-TzhY-_z_WDSKSbIrY",
-    "expire_date": "2025-07-31T16:53:47.989Z"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "wxqp7uhi35imd0gyurw9hc48e0q89qit",
-  "fields": {
-    "session_data": ".eJxVjL0OwyAQg9-FuUIJPw107J5nQMfBlbQVSCGZqr57SJShXSzZn-0Pc7Auya01zm4K7MZ6dvnNPOAr5h2EJ-RH4VjyMk-e7xV-0srHEuL7fnb_DhLU1NYqIgkFXVMUYggCkSiStAqAzLX3zRuvSEtSEqzuwmDtkUlhDWj23QAf8Tku:1uwjHg:yejjmPHch6Piup7Bcs9ryeciGs371fNvxqP4qv1Gxug",
-    "expire_date": "2025-09-25T15:32:28.817Z"
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 1,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$KJBJAjBDfkLTzZbqwbXnfm$2BEMjTM6NPI3n8DYxE+POiOj5TFpCp0ca4XT2uMgKvQ=",
-    "last_login": "2025-09-11T15:32:28Z",
-    "is_superuser": true,
-    "username": "damisa",
-    "first_name": "daniel",
-    "last_name": "Thomas",
-    "email": "daniel@gmail.com",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2025-07-17T16:53:24Z",
-    "state": "Kogi",
-    "address": "Township",
-    "phone": "07043777486",
-    "city": "Ajaokuta",
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 2,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$rC2ePCoxgk6hsdsZNRGlPE$OdUCDsQIMrswPwoQIRoVcypgMQaF/yfK2wvb6k/FUd4=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Clarita",
-    "first_name": "Clare",
-    "last_name": "Clarita",
-    "email": "OchenikaClare@gmail.com",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2025-09-15T22:09:43.195Z",
-    "state": "Kogi",
-    "address": "TownShip",
-    "phone": "07043777486",
-    "city": "Ajaokuta",
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 3,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$cgx7EaYH5mS8pYbYCJn2o3$YOIvO06pASrIrX2s25t37qe7ERS5HE3w6su7oiO94M8=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Felix",
-    "first_name": "Felix",
-    "last_name": "Chichoke",
-    "email": "Felix@gmail.com",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2025-09-16T10:59:29.622Z",
-    "state": "Anambra",
-    "address": "Minna",
-    "phone": "09148694628",
-    "city": "bosso",
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 4,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$SUXAc90PaQBDizegC4oMT5$MM6TUWLsxJNFO3GIyuj6uXM8dIknMeAJ4yYNQbs5MU8=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Oliver",
-    "first_name": "",
-    "last_name": "",
-    "email": "Oliver@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T16:45:46.604Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 5,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$gx1iIVpEwAqGkFKLhzMtAg$hpM3hsK+IM9gX5pICySa+9fIkNGDsQb5xsjcnQfZoQM=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Ofure",
-    "first_name": "",
-    "last_name": "",
-    "email": "Ofure@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T16:48:25.416Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 6,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$6BospiMHuB9Podoxeb7Kr9$l6wb5WxO1afEQWAzLbIWueDftXIGu6KAquC0wqJao1U=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "don",
-    "first_name": "",
-    "last_name": "",
-    "email": "don@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T16:50:46.101Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 7,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$q5uW7TD5kO0rN9eXwyYSVv$7rPCVqAXfeAUBKI+G/Az7S0INgA8UtlYdi+shaCwdts=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "donjazzy",
-    "first_name": "",
-    "last_name": "",
-    "email": "donjazzy@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T16:53:43Z",
-    "state": "Kogi",
-    "address": "SAE",
-    "phone": "0810846583",
-    "city": "ajaokuta",
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 8,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$2uytk9glfMyTOhfOZ2UZdM$inz087Ih8QvgyIkEvYLzhvQrVfMNlWmujIxhAp9Kb6s=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Mark",
-    "first_name": "",
-    "last_name": "",
-    "email": "Mark@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T19:06:05.407Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 9,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$OssC8mCtYS48Jb1LpfPCtW$MDrQGeGRRiYSOuXUsLEDEk+IVQEvsjhIsPqNDVD6otM=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Olamide",
-    "first_name": "",
-    "last_name": "",
-    "email": "Olamide@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T19:08:07.859Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "core.customuser",
-  "pk": 10,
-  "fields": {
-    "password": "pbkdf2_sha256$600000$swPdeh2LliMvx3SiHpjiGg$CGv0QQbB6H+z/PKKFOuzkJOiKfbEBfMIyGOYNrb+jOk=",
-    "last_login": null,
-    "is_superuser": false,
-    "username": "Linda",
-    "first_name": "",
-    "last_name": "",
-    "email": "Linda@gmail.com",
-    "is_staff": false,
-    "is_active": true,
-    "date_joined": "2025-09-16T19:12:40.244Z",
-    "state": null,
-    "address": null,
-    "phone": null,
-    "city": null,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 1,
-  "fields": {
-    "user": 2,
-    "image": "img/blog_Post.jpg",
-    "bio": "Hello i am clarita",
-    "state": "Kogi",
-    "city": null,
-    "email": "Clare@gmail.com",
-    "country": "Nigeria",
-    "phone": "07043777486",
-    "verified": true,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 2,
-  "fields": {
-    "user": 3,
-    "image": "",
-    "bio": null,
-    "state": "Anambra",
-    "city": "bosso",
-    "email": "Felix@gmail.com",
-    "country": null,
-    "phone": "09148694628",
-    "verified": false,
-    "address": "Minna"
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 3,
-  "fields": {
-    "user": 4,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "Oliver@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 4,
-  "fields": {
-    "user": 5,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "Ofure@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 5,
-  "fields": {
-    "user": 6,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "don@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 6,
-  "fields": {
-    "user": 7,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "donjazzy@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 7,
-  "fields": {
-    "user": 8,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "Mark@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 8,
-  "fields": {
-    "user": 9,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "Olamide@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.profile",
-  "pk": 9,
-  "fields": {
-    "user": 10,
-    "image": "",
-    "bio": null,
-    "state": null,
-    "city": null,
-    "email": "Linda@gmail.com",
-    "country": null,
-    "phone": null,
-    "verified": false,
-    "address": null
-  }
-},
-{
-  "model": "Blog.blogs",
-  "pk": "3102755c-ca31-4b47-b24e-dcde4dce7633",
-  "fields": {
-    "title": "The Rise of Renewable Energy Startups",
-    "subtitle": "Meet the innovators building clean energy solutions for Africa.",
-    "author": null,
-    "description": "As the world grapples with the urgent need to combat climate change and reduce dependence on fossil fuels, renewable energy has emerged as a promising solution. In recent years, there has been a significant rise in renewable energy startups, particularly in developing countries like Nigeria, where power supply challenges persist. These startups are not just innovating — they are reshaping the energy landscape.\r\n\r\nThe rise of renewable energy startups is fueled by a combination of technological advancement, growing environmental awareness, and the demand for sustainable alternatives. Startups are harnessing solar, wind, hydro, and bioenergy to provide clean, affordable, and reliable power to households, businesses, and entire off-grid communities. In Nigeria, for example, solar energy startups are stepping in to fill the gap left by the unreliable national grid and costly generators.\r\n\r\nWhat makes these startups impactful is their flexibility and community-centered approach. Unlike traditional power companies, renewable startups often adopt decentralized models — installing solar mini-grids, pay-as-you-go solar home systems, and mobile-powered solutions. These innovations not only improve access to electricity but also create jobs, support small businesses, and empower rural communities.\r\n\r\nMoreover, partnerships with tech companies, international donors, and government agencies are giving these startups access to funding, training, and policy support. Platforms like Green Energy Mission Africa, Arnergy, and Lumos Nigeria are prime examples of how startups are scaling renewable energy in cost-effective and sustainable ways.\r\n\r\nHowever, challenges still exist. High startup costs, limited infrastructure, policy inconsistency, and poor consumer awareness can hinder growth. But as global focus on sustainability intensifies, the future for renewable energy startups looks promising.\r\n\r\nThis blog will delve into how these startups are driving innovation, the obstacles they face, and why supporting them is key to achieving energy access, environmental sustainability, and economic growth in the years to come.",
-    "slug": "the-rise-of-renewable-energy-startups",
-    "image": "blog-image/download.jfif",
-    "category": "TECHNOLOGY",
-    "created_at": "2025-07-17T17:22:37.618Z",
-    "modified_at": "2025-07-17T17:23:14.275Z"
-  }
-},
-{
-  "model": "Blog.blogs",
-  "pk": "3e46cf54-27ff-4d93-bcde-20c87c657377",
-  "fields": {
-    "title": "Muhammadu Buhari Death",
-    "subtitle": "The Life and Death of Muhammadu Buhari: Soldier, President, and Controversial Reformer\"",
-    "author": null,
-    "description": "Former Nigerian President Muhammadu Buhari passed away on July 13, 2025, at age 82 while receiving medical treatment in London \r\nYouTube\r\n+11\r\nThe Washington Post\r\n+11\r\nThe Times\r\n+11\r\n. The announcement came via his spokesperson, with no immediate cause of death disclosed.\r\n\r\nBorn on December 17, 1942, in Daura, Katsina State, Buhari began his career as a military officer, rising to prominence during the Nigerian Civil War. In 1983, he seized power in a coup and led a strict military regime until being overthrown in August 1985 \r\nThe Washington Post\r\nThe Times\r\n+3\r\nThe Guardian\r\n+3\r\nAl Jazeera\r\n+3\r\n. During this period, he implemented his \"War Against Indiscipline\" and anti-corruption campaign, policies that earned him both praise for integrity and criticism for harsh tactics and human rights concerns \r\nThe Washington Post\r\n+2\r\nThe Guardian\r\n+2\r\nThe Times\r\n+2\r\n.\r\n\r\nAfter years out of the spotlight, Buhari returned to politics. In 2015, he won a historic election as the first opposition candidate to unseat an incumbent president, and was reelected in 2019 \r\nReuters\r\n. He branded himself a “converted democrat,” carried a symbolic broom to emphasize his anti-corruption platform, and promised to defeat Boko Haram \r\nAl Jazeera\r\n+3\r\nThe Times\r\n+3\r\nThe Washington Post\r\n+3\r\n.\r\n\r\nHis presidency was mixed: he achieved some progress in the fight against Boko Haram, yet was widely criticized for sluggish economic growth, high unemployment, a weak response to police brutality and extended health-related absences \r\nThe Times\r\n+3\r\nThe Washington Post\r\n+3\r\nThe Guardian\r\n+3\r\n. His absence fueled concerns over leadership transparency and continuity \r\nWikipedia\r\n.\r\n\r\nFollowing his passing, Buhari’s body was flown back to Nigeria and given a dignified state burial in Daura on July 15, 2025, with military honors, a 21-gun salute, and attendance by President Bola Tinubu and other dignitaries \r\nYouTube\r\n+8\r\nReuters\r\n+8\r\nAl Jazeera\r\n+8\r\n. His legacy remains deeply polarized: hailed in the north for discipline and politics of integrity, yet criticized elsewhere for authoritarian tendencies and economic setbacks \r\nThe Guardian\r\n+1\r\nThe Times\r\n+1\r\n.\r\n\r\nBuhari leaves behind his wife, Aisha Halilu, and several children. As Nigeria mourns, reflections continue on both the transformation and the contradictions his rule embodied.",
-    "slug": "muhammadu-buhari-death",
-    "image": "blog-image/500.jpg",
-    "category": "GOVERNMENT",
-    "created_at": "2025-07-18T15:55:23.212Z",
-    "modified_at": "2025-07-18T16:08:40.172Z"
-  }
-},
-{
-  "model": "Blog.blogs",
-  "pk": "66c75c5b-0879-4174-a931-b76056256150",
-  "fields": {
-    "title": "Revolutionizing Farming Through Technology",
-    "subtitle": "Learn how Nigerian farmers are using mobile apps, drones, and AI to increase productivity.",
-    "author": null,
-    "description": "Agriculture has always been a cornerstone of human survival and economic development. In recent years, however, the industry has begun to experience a dramatic transformation — thanks to technology. From traditional tools and manual labor to smart farming techniques and digital solutions, technology is revolutionizing the way farming is done across the globe, including in countries like Nigeria.\r\n\r\nTechnological advancements such as precision farming, drones, mobile apps, and Internet of Things (IoT) devices are helping farmers increase productivity, reduce waste, and make more informed decisions. With precision farming, for instance, farmers can monitor soil conditions, water levels, and crop health in real-time, enabling them to apply fertilizers and pesticides only where needed. This not only reduces costs but also minimizes environmental impact.\r\n\r\nIn Nigeria, mobile technology has become a game-changer for smallholder farmers. With apps providing weather forecasts, market prices, planting guides, and access to buyers, farmers are better equipped to plan their operations and sell their products at fair prices. Platforms like FarmCrowdy and ThriveAgric have introduced digital crowdfunding models, allowing everyday people to invest in farming projects while supporting rural farmers financially and technically.\r\n\r\nMechanization is another area where technology is making a difference. Tractors, harvesters, and irrigation systems are reducing the need for manual labor and improving efficiency on large and small farms alike. Moreover, blockchain and data analytics are beginning to play roles in ensuring transparency in food supply chains and improving decision-making through data-driven insights.\r\n\r\nDespite these advancements, challenges like poor internet access, high costs of technology, and limited digital literacy still exist. Nonetheless, the future of farming lies in embracing innovation. This blog will explore how tech-driven agriculture is not just a trend but a necessary evolution toward achieving food security, sustainability, and economic empowerment for farmers.",
-    "slug": "revolutionizing-farming-through-technology",
-    "image": "blog-image/images.jfif",
-    "category": "FARMING",
-    "created_at": "2025-07-17T17:15:32.099Z",
-    "modified_at": "2025-07-17T17:15:32.099Z"
-  }
-},
-{
-  "model": "Blog.blogs",
-  "pk": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
-  "fields": {
-    "title": "How Government Policies Impact Small Businesses in Nigeria",
-    "subtitle": "Explore the effects of current policies on SMEs, and how entrepreneurs are navigating the challenges.",
-    "author": null,
-    "description": "Government policies play a crucial role in shaping the business environment in any country, and Nigeria is no exception. For small businesses — often referred to as the backbone of Nigeria’s economy — government policies can either serve as a catalyst for growth or a barrier to progress. This blog post explores the various ways government policies affect small businesses in Nigeria, both positively and negatively.\r\n\r\nFrom taxation and regulatory compliance to access to finance and infrastructural development, the influence of government decisions is far-reaching. Policies such as tax rates, import/export regulations, multiple levies by local and state governments, and registration requirements often pose challenges to small business owners who operate on limited capital. These policies can sometimes lead to an increase in the cost of doing business, which affects profitability and sustainability.\r\n\r\nOn the other hand, supportive policies such as the introduction of grants, business development funds, training programs, and regulatory reforms have the potential to empower small businesses, foster innovation, and create employment opportunities. For instance, initiatives from agencies like the Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) and the Bank of Industry (BOI) are aimed at helping entrepreneurs scale their operations.\r\n\r\nHowever, inconsistency, bureaucracy, and lack of proper implementation continue to hinder the effectiveness of these policies. Many small business owners face difficulties navigating government processes or accessing promised support due to corruption, favoritism, or poor communication.\r\n\r\nIn this blog post, we will analyze specific policies that have shaped the small business landscape in Nigeria, highlight the challenges and opportunities they bring, and provide recommendations on how the government can create a more enabling environment for entrepreneurs. Whether you are a small business owner, aspiring entrepreneur, or policy enthusiast, this article will give you valuable insights into how policies truly impact business on the ground.",
-    "slug": "how-government-policies-impact-small-businesses-in-nigeria",
-    "image": "blog-image/photo-1523966211575-eb4a01e7dd51_zHNd7iS.avif",
-    "category": "GOVERNMENT",
-    "created_at": "2025-07-17T17:07:31.144Z",
-    "modified_at": "2025-07-17T17:10:11.872Z"
-  }
-},
-{
-  "model": "Blog.blogs",
-  "pk": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
-  "fields": {
-    "title": "Why Education in Rural Areas Still Lags Behind",
-    "subtitle": "A deep dive into the systemic issues facing education in underserved communities in Nigeria.",
-    "author": 1,
-    "description": "Despite numerous efforts to promote universal education, rural areas in many developing countries — including Nigeria — still struggle to catch up with their urban counterparts. The gap in educational quality, access, and resources between rural and urban communities remains wide, raising concerns about equity and long-term national development.\r\n\r\nOne major reason education in rural areas lags behind is inadequate infrastructure. Many rural schools lack basic amenities such as electricity, clean water, desks, libraries, and proper classroom buildings. Without a conducive learning environment, students often struggle to stay motivated or even attend school regularly.\r\n\r\nAnother key issue is the shortage of qualified teachers. Rural areas often experience a brain drain, with experienced teachers preferring to work in urban centers where salaries are higher and living conditions are better. This leaves rural schools staffed with underqualified or poorly trained teachers, affecting the quality of education delivered.\r\n\r\nAccess is also a challenge. Children in remote villages often have to travel long distances to reach the nearest school, leading to high dropout rates, especially among girls. Insecurity, cultural barriers, and child labor further contribute to low school attendance in these areas.\r\n\r\nAdditionally, a lack of learning materials and modern teaching tools puts rural students at a disadvantage. While urban students may benefit from digital learning, internet access, and advanced curricula, many rural students still depend on outdated textbooks and limited classroom interaction.\r\n\r\nGovernment and NGOs have made attempts to bridge this gap through policies, scholarships, and community programs, but progress is slow. Sustainable solutions require long-term investment in rural infrastructure, teacher training, digital inclusion, and community engagement.\r\n\r\nThis blog explores the root causes behind the lag in rural education, the consequences of this inequality, and what can be done to ensure that every child — regardless of location — has a fair chance at a quality education.",
-    "slug": "why-education-in-rural-areas-still-lags-behind",
-    "image": "blog-image/photo-1517487881594-2787fef5ebf7_1.avif",
-    "category": "EDUCATION",
-    "created_at": "2025-07-17T17:18:19.619Z",
-    "modified_at": "2025-09-11T07:42:03.872Z"
-  }
-}
-]
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-17T17:01:19.382Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6bd11436-943d-48be-85d7-b8b888af5eb4",
+    "object_repr": "Blogs object (6bd11436-943d-48be-85d7-b8b888af5eb4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-17T17:06:03.051Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6bd11436-943d-48be-85d7-b8b888af5eb4",
+    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-17T17:07:31.144Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
+    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-17T17:10:11.874Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
+    "object_repr": "How Government Policies Impact Small Businesses in Nigeria",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-17T17:15:32.100Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "66c75c5b-0879-4174-a931-b76056256150",
+    "object_repr": "Revolutionizing Farming Through Technology",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-17T17:18:19.620Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
+    "object_repr": "Why Education in Rural Areas Still Lags Behind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-17T17:22:37.619Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3102755c-ca31-4b47-b24e-dcde4dce7633",
+    "object_repr": "The Rise of Renewable Energy Startups",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-17T17:23:14.276Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3102755c-ca31-4b47-b24e-dcde4dce7633",
+    "object_repr": "The Rise of Renewable Energy Startups",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-18T15:55:23.216Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
+    "object_repr": "he Life and Death of Muhammadu Buhari: Soldier, President, and Controversial Reformer\"",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-18T16:02:29.896Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
+    "object_repr": "Muhammadu Buhari: His Journey as Soldier, President, and Controversial Leader",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Subtitle\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-07-18T16:07:57.053Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
+    "object_repr": "Muhammadu Buhari Death",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Subtitle\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-07-18T16:08:07.689Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
+    "object_repr": "Why Education in Rural Areas Still Lags Behind",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-07-18T16:08:40.174Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3e46cf54-27ff-4d93-bcde-20c87c657377",
+    "object_repr": "Muhammadu Buhari Death",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Subtitle\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-09-11T07:42:03.876Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
+    "object_repr": "Why Education in Rural Areas Still Lags Behind",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Author\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-09-15T21:44:24.586Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": "damisa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"State\", \"City\", \"Address\", \"Phone\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-09-15T22:09:43.797Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "Clarita",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-09-16T10:15:16.363Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Clarita's Profile",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\", \"Bio\", \"State\", \"Email\", \"Country\", \"Phone\", \"Verified\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-09-16T10:59:30.323Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "Felix",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-09-16T16:55:04.034Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "7",
+    "object_repr": "donjazzy",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\", \"Address\", \"Phone\"]}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gp5zxhwlobgyup7z5s5rf0tx7rl5jufs",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAURO_iGlleY5uSnjNYfzE4gBwpTirE3UmkFFCNNO_NvEWGdal57WXOI4uz0OL02yHQs7Qd8APafZI0tWUeUe6KPGiX14nL63K4fwcVet3WwNGx81ZrnxADJ5XAKtLBUmRzi0xorCkDhRIH1k5HBQSK3RbMHsXnC-FtOEo:1ucRrf:dQuKNdG4RFUkNVhhJhaCBFmJ9-TzhY-_z_WDSKSbIrY",
+    "expire_date": "2025-07-31T16:53:47.989Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wxqp7uhi35imd0gyurw9hc48e0q89qit",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIJPw107J5nQMfBlbQVSCGZqr57SJShXSzZn-0Pc7Auya01zm4K7MZ6dvnNPOAr5h2EJ-RH4VjyMk-e7xV-0srHEuL7fnb_DhLU1NYqIgkFXVMUYggCkSiStAqAzLX3zRuvSEtSEqzuwmDtkUlhDWj23QAf8Tku:1uwjHg:yejjmPHch6Piup7Bcs9ryeciGs371fNvxqP4qv1Gxug",
+    "expire_date": "2025-09-25T15:32:28.817Z"
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$KJBJAjBDfkLTzZbqwbXnfm$2BEMjTM6NPI3n8DYxE+POiOj5TFpCp0ca4XT2uMgKvQ=",
+    "last_login": "2025-09-11T15:32:28Z",
+    "is_superuser": true,
+    "username": "damisa",
+    "first_name": "daniel",
+    "last_name": "Thomas",
+    "email": "daniel@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-17T16:53:24Z",
+    "state": "Kogi",
+    "address": "Township",
+    "phone": "07043777486",
+    "city": "Ajaokuta",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$rC2ePCoxgk6hsdsZNRGlPE$OdUCDsQIMrswPwoQIRoVcypgMQaF/yfK2wvb6k/FUd4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Clarita",
+    "first_name": "Clare",
+    "last_name": "Clarita",
+    "email": "OchenikaClare@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-09-15T22:09:43.195Z",
+    "state": "Kogi",
+    "address": "TownShip",
+    "phone": "07043777486",
+    "city": "Ajaokuta",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$cgx7EaYH5mS8pYbYCJn2o3$YOIvO06pASrIrX2s25t37qe7ERS5HE3w6su7oiO94M8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Felix",
+    "first_name": "Felix",
+    "last_name": "Chichoke",
+    "email": "Felix@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-09-16T10:59:29.622Z",
+    "state": "Anambra",
+    "address": "Minna",
+    "phone": "09148694628",
+    "city": "bosso",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$SUXAc90PaQBDizegC4oMT5$MM6TUWLsxJNFO3GIyuj6uXM8dIknMeAJ4yYNQbs5MU8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Oliver",
+    "first_name": "",
+    "last_name": "",
+    "email": "Oliver@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T16:45:46.604Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$gx1iIVpEwAqGkFKLhzMtAg$hpM3hsK+IM9gX5pICySa+9fIkNGDsQb5xsjcnQfZoQM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Ofure",
+    "first_name": "",
+    "last_name": "",
+    "email": "Ofure@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T16:48:25.416Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$6BospiMHuB9Podoxeb7Kr9$l6wb5WxO1afEQWAzLbIWueDftXIGu6KAquC0wqJao1U=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "don",
+    "first_name": "",
+    "last_name": "",
+    "email": "don@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T16:50:46.101Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$q5uW7TD5kO0rN9eXwyYSVv$7rPCVqAXfeAUBKI+G/Az7S0INgA8UtlYdi+shaCwdts=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "donjazzy",
+    "first_name": "",
+    "last_name": "",
+    "email": "donjazzy@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T16:53:43Z",
+    "state": "Kogi",
+    "address": "SAE",
+    "phone": "0810846583",
+    "city": "ajaokuta",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$2uytk9glfMyTOhfOZ2UZdM$inz087Ih8QvgyIkEvYLzhvQrVfMNlWmujIxhAp9Kb6s=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Mark",
+    "first_name": "",
+    "last_name": "",
+    "email": "Mark@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T19:06:05.407Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$OssC8mCtYS48Jb1LpfPCtW$MDrQGeGRRiYSOuXUsLEDEk+IVQEvsjhIsPqNDVD6otM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Olamide",
+    "first_name": "",
+    "last_name": "",
+    "email": "Olamide@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T19:08:07.859Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.customuser",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$swPdeh2LliMvx3SiHpjiGg$CGv0QQbB6H+z/PKKFOuzkJOiKfbEBfMIyGOYNrb+jOk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Linda",
+    "first_name": "",
+    "last_name": "",
+    "email": "Linda@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-09-16T19:12:40.244Z",
+    "state": null,
+    "address": null,
+    "phone": null,
+    "city": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 1,
+  "fields": {
+    "user": 2,
+    "image": "img/blog_Post.jpg",
+    "bio": "Hello i am clarita",
+    "state": "Kogi",
+    "city": null,
+    "email": "Clare@gmail.com",
+    "country": "Nigeria",
+    "phone": "07043777486",
+    "verified": true,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 2,
+  "fields": {
+    "user": 3,
+    "image": "",
+    "bio": null,
+    "state": "Anambra",
+    "city": "bosso",
+    "email": "Felix@gmail.com",
+    "country": null,
+    "phone": "09148694628",
+    "verified": false,
+    "address": "Minna"
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 3,
+  "fields": {
+    "user": 4,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "Oliver@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 4,
+  "fields": {
+    "user": 5,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "Ofure@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 5,
+  "fields": {
+    "user": 6,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "don@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "donjazzy@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 7,
+  "fields": {
+    "user": 8,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "Mark@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 8,
+  "fields": {
+    "user": 9,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "Olamide@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.profile",
+  "pk": 9,
+  "fields": {
+    "user": 10,
+    "image": "",
+    "bio": null,
+    "state": null,
+    "city": null,
+    "email": "Linda@gmail.com",
+    "country": null,
+    "phone": null,
+    "verified": false,
+    "address": null
+  }
+},
+{
+  "model": "Blog.blogs",
+  "pk": "3102755c-ca31-4b47-b24e-dcde4dce7633",
+  "fields": {
+    "title": "The Rise of Renewable Energy Startups",
+    "subtitle": "Meet the innovators building clean energy solutions for Africa.",
+    "author": null,
+    "description": "As the world grapples with the urgent need to combat climate change and reduce dependence on fossil fuels, renewable energy has emerged as a promising solution. In recent years, there has been a significant rise in renewable energy startups, particularly in developing countries like Nigeria, where power supply challenges persist. These startups are not just innovating  they are reshaping the energy landscape.\r\n\r\nThe rise of renewable energy startups is fueled by a combination of technological advancement, growing environmental awareness, and the demand for sustainable alternatives. Startups are harnessing solar, wind, hydro, and bioenergy to provide clean, affordable, and reliable power to households, businesses, and entire off-grid communities. In Nigeria, for example, solar energy startups are stepping in to fill the gap left by the unreliable national grid and costly generators.\r\n\r\nWhat makes these startups impactful is their flexibility and community-centered approach. Unlike traditional power companies, renewable startups often adopt decentralized models  installing solar mini-grids, pay-as-you-go solar home systems, and mobile-powered solutions. These innovations not only improve access to electricity but also create jobs, support small businesses, and empower rural communities.\r\n\r\nMoreover, partnerships with tech companies, international donors, and government agencies are giving these startups access to funding, training, and policy support. Platforms like Green Energy Mission Africa, Arnergy, and Lumos Nigeria are prime examples of how startups are scaling renewable energy in cost-effective and sustainable ways.\r\n\r\nHowever, challenges still exist. High startup costs, limited infrastructure, policy inconsistency, and poor consumer awareness can hinder growth. But as global focus on sustainability intensifies, the future for renewable energy startups looks promising.\r\n\r\nThis blog will delve into how these startups are driving innovation, the obstacles they face, and why supporting them is key to achieving energy access, environmental sustainability, and economic growth in the years to come.",
+    "slug": "the-rise-of-renewable-energy-startups",
+    "image": "blog-image/download.jfif",
+    "category": "TECHNOLOGY",
+    "created_at": "2025-07-17T17:22:37.618Z",
+    "modified_at": "2025-07-17T17:23:14.275Z"
+  }
+},
+{
+  "model": "Blog.blogs",
+  "pk": "3e46cf54-27ff-4d93-bcde-20c87c657377",
+  "fields": {
+    "title": "Muhammadu Buhari Death",
+    "subtitle": "The Life and Death of Muhammadu Buhari: Soldier, President, and Controversial Reformer\"",
+    "author": null,
+    "description": "Former Nigerian President Muhammadu Buhari passed away on July 13, 2025, at age 82 while receiving medical treatment in London \r\nYouTube\r\n+11\r\nThe Washington Post\r\n+11\r\nThe Times\r\n+11\r\n. The announcement came via his spokesperson, with no immediate cause of death disclosed.\r\n\r\nBorn on December 17, 1942, in Daura, Katsina State, Buhari began his career as a military officer, rising to prominence during the Nigerian Civil War. In 1983, he seized power in a coup and led a strict military regime until being overthrown in August 1985 \r\nThe Washington Post\r\nThe Times\r\n+3\r\nThe Guardian\r\n+3\r\nAl Jazeera\r\n+3\r\n. During this period, he implemented his \"War Against Indiscipline\" and anti-corruption campaign, policies that earned him both praise for integrity and criticism for harsh tactics and human rights concerns \r\nThe Washington Post\r\n+2\r\nThe Guardian\r\n+2\r\nThe Times\r\n+2\r\n.\r\n\r\nAfter years out of the spotlight, Buhari returned to politics. In 2015, he won a historic election as the first opposition candidate to unseat an incumbent president, and was reelected in 2019 \r\nReuters\r\n. He branded himself a converted democrat, carried a symbolic broom to emphasize his anti-corruption platform, and promised to defeat Boko Haram \r\nAl Jazeera\r\n+3\r\nThe Times\r\n+3\r\nThe Washington Post\r\n+3\r\n.\r\n\r\nHis presidency was mixed: he achieved some progress in the fight against Boko Haram, yet was widely criticized for sluggish economic growth, high unemployment, a weak response to police brutality and extended health-related absences \r\nThe Times\r\n+3\r\nThe Washington Post\r\n+3\r\nThe Guardian\r\n+3\r\n. His absence fueled concerns over leadership transparency and continuity \r\nWikipedia\r\n.\r\n\r\nFollowing his passing, Buharis body was flown back to Nigeria and given a dignified state burial in Daura on July 15, 2025, with military honors, a 21-gun salute, and attendance by President Bola Tinubu and other dignitaries \r\nYouTube\r\n+8\r\nReuters\r\n+8\r\nAl Jazeera\r\n+8\r\n. His legacy remains deeply polarized: hailed in the north for discipline and politics of integrity, yet criticized elsewhere for authoritarian tendencies and economic setbacks \r\nThe Guardian\r\n+1\r\nThe Times\r\n+1\r\n.\r\n\r\nBuhari leaves behind his wife, Aisha Halilu, and several children. As Nigeria mourns, reflections continue on both the transformation and the contradictions his rule embodied.",
+    "slug": "muhammadu-buhari-death",
+    "image": "blog-image/500.jpg",
+    "category": "GOVERNMENT",
+    "created_at": "2025-07-18T15:55:23.212Z",
+    "modified_at": "2025-07-18T16:08:40.172Z"
+  }
+},
+{
+  "model": "Blog.blogs",
+  "pk": "66c75c5b-0879-4174-a931-b76056256150",
+  "fields": {
+    "title": "Revolutionizing Farming Through Technology",
+    "subtitle": "Learn how Nigerian farmers are using mobile apps, drones, and AI to increase productivity.",
+    "author": null,
+    "description": "Agriculture has always been a cornerstone of human survival and economic development. In recent years, however, the industry has begun to experience a dramatic transformation  thanks to technology. From traditional tools and manual labor to smart farming techniques and digital solutions, technology is revolutionizing the way farming is done across the globe, including in countries like Nigeria.\r\n\r\nTechnological advancements such as precision farming, drones, mobile apps, and Internet of Things (IoT) devices are helping farmers increase productivity, reduce waste, and make more informed decisions. With precision farming, for instance, farmers can monitor soil conditions, water levels, and crop health in real-time, enabling them to apply fertilizers and pesticides only where needed. This not only reduces costs but also minimizes environmental impact.\r\n\r\nIn Nigeria, mobile technology has become a game-changer for smallholder farmers. With apps providing weather forecasts, market prices, planting guides, and access to buyers, farmers are better equipped to plan their operations and sell their products at fair prices. Platforms like FarmCrowdy and ThriveAgric have introduced digital crowdfunding models, allowing everyday people to invest in farming projects while supporting rural farmers financially and technically.\r\n\r\nMechanization is another area where technology is making a difference. Tractors, harvesters, and irrigation systems are reducing the need for manual labor and improving efficiency on large and small farms alike. Moreover, blockchain and data analytics are beginning to play roles in ensuring transparency in food supply chains and improving decision-making through data-driven insights.\r\n\r\nDespite these advancements, challenges like poor internet access, high costs of technology, and limited digital literacy still exist. Nonetheless, the future of farming lies in embracing innovation. This blog will explore how tech-driven agriculture is not just a trend but a necessary evolution toward achieving food security, sustainability, and economic empowerment for farmers.",
+    "slug": "revolutionizing-farming-through-technology",
+    "image": "blog-image/images.jfif",
+    "category": "FARMING",
+    "created_at": "2025-07-17T17:15:32.099Z",
+    "modified_at": "2025-07-17T17:15:32.099Z"
+  }
+},
+{
+  "model": "Blog.blogs",
+  "pk": "6af99fd4-ec6b-42f2-b736-5ecf884e6399",
+  "fields": {
+    "title": "How Government Policies Impact Small Businesses in Nigeria",
+    "subtitle": "Explore the effects of current policies on SMEs, and how entrepreneurs are navigating the challenges.",
+    "author": null,
+    "description": "Government policies play a crucial role in shaping the business environment in any country, and Nigeria is no exception. For small businesses  often referred to as the backbone of Nigerias economy  government policies can either serve as a catalyst for growth or a barrier to progress. This blog post explores the various ways government policies affect small businesses in Nigeria, both positively and negatively.\r\n\r\nFrom taxation and regulatory compliance to access to finance and infrastructural development, the influence of government decisions is far-reaching. Policies such as tax rates, import/export regulations, multiple levies by local and state governments, and registration requirements often pose challenges to small business owners who operate on limited capital. These policies can sometimes lead to an increase in the cost of doing business, which affects profitability and sustainability.\r\n\r\nOn the other hand, supportive policies such as the introduction of grants, business development funds, training programs, and regulatory reforms have the potential to empower small businesses, foster innovation, and create employment opportunities. For instance, initiatives from agencies like the Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) and the Bank of Industry (BOI) are aimed at helping entrepreneurs scale their operations.\r\n\r\nHowever, inconsistency, bureaucracy, and lack of proper implementation continue to hinder the effectiveness of these policies. Many small business owners face difficulties navigating government processes or accessing promised support due to corruption, favoritism, or poor communication.\r\n\r\nIn this blog post, we will analyze specific policies that have shaped the small business landscape in Nigeria, highlight the challenges and opportunities they bring, and provide recommendations on how the government can create a more enabling environment for entrepreneurs. Whether you are a small business owner, aspiring entrepreneur, or policy enthusiast, this article will give you valuable insights into how policies truly impact business on the ground.",
+    "slug": "how-government-policies-impact-small-businesses-in-nigeria",
+    "image": "blog-image/photo-1523966211575-eb4a01e7dd51_zHNd7iS.avif",
+    "category": "GOVERNMENT",
+    "created_at": "2025-07-17T17:07:31.144Z",
+    "modified_at": "2025-07-17T17:10:11.872Z"
+  }
+},
+{
+  "model": "Blog.blogs",
+  "pk": "d6e5c6b0-2b07-46b6-8dcf-461680227d72",
+  "fields": {
+    "title": "Why Education in Rural Areas Still Lags Behind",
+    "subtitle": "A deep dive into the systemic issues facing education in underserved communities in Nigeria.",
+    "author": 1,
+    "description": "Despite numerous efforts to promote universal education, rural areas in many developing countries  including Nigeria  still struggle to catch up with their urban counterparts. The gap in educational quality, access, and resources between rural and urban communities remains wide, raising concerns about equity and long-term national development.\r\n\r\nOne major reason education in rural areas lags behind is inadequate infrastructure. Many rural schools lack basic amenities such as electricity, clean water, desks, libraries, and proper classroom buildings. Without a conducive learning environment, students often struggle to stay motivated or even attend school regularly.\r\n\r\nAnother key issue is the shortage of qualified teachers. Rural areas often experience a brain drain, with experienced teachers preferring to work in urban centers where salaries are higher and living conditions are better. This leaves rural schools staffed with underqualified or poorly trained teachers, affecting the quality of education delivered.\r\n\r\nAccess is also a challenge. Children in remote villages often have to travel long distances to reach the nearest school, leading to high dropout rates, especially among girls. Insecurity, cultural barriers, and child labor further contribute to low school attendance in these areas.\r\n\r\nAdditionally, a lack of learning materials and modern teaching tools puts rural students at a disadvantage. While urban students may benefit from digital learning, internet access, and advanced curricula, many rural students still depend on outdated textbooks and limited classroom interaction.\r\n\r\nGovernment and NGOs have made attempts to bridge this gap through policies, scholarships, and community programs, but progress is slow. Sustainable solutions require long-term investment in rural infrastructure, teacher training, digital inclusion, and community engagement.\r\n\r\nThis blog explores the root causes behind the lag in rural education, the consequences of this inequality, and what can be done to ensure that every child  regardless of location  has a fair chance at a quality education.",
+    "slug": "why-education-in-rural-areas-still-lags-behind",
+    "image": "blog-image/photo-1517487881594-2787fef5ebf7_1.avif",
+    "category": "EDUCATION",
+    "created_at": "2025-07-17T17:18:19.619Z",
+    "modified_at": "2025-09-11T07:42:03.872Z"
+  }
+}
+]
