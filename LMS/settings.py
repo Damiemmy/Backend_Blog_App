@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-*q(i^!rm+7&9e)sc$bi+2==8(11007-wmc1phl@b1sz8htb04k
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://backend-blog-app-8cul.onrender.com',
+    'backend-blog-app-8cul.onrender.com',
     "localhost",  
     "127.0.0.1",
 ]
