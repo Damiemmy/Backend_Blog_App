@@ -59,6 +59,7 @@ CORS_ALLOWED_ORIGINS = [
 "https://new9ja.onrender.com",
 
 ]
+CORS_ALLOW_CREDENTIALS = True
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
